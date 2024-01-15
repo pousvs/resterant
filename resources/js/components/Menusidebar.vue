@@ -114,12 +114,7 @@
                     </router-link>
                 </li>
 
-                <li class="menu-item">
-                    <a href="#" class="menu-link">
-                        <i class='menu-icon bx bxs-x-circle'></i>
-                        <div>ອອກຈາກລະບົບ</div>
-                    </a>
-                </li>
+
 
             </ul>
 
@@ -128,6 +123,7 @@
 </template>
 
 <script>
+
 export default {
     name: 'WorkspaceJsonMenusidebar',
 
@@ -142,6 +138,7 @@ export default {
     },
 
     methods: {
+
 
     },
 };
